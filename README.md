@@ -13,6 +13,8 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
+Behnood Rasti, Danfeng Hong*, Renlong Hang, Pedram Ghamisi, Xudong Kang, Jocelyn Chanussot, Jon Atli Benediktsson. Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep (Overview and Toolbox), IEEE Geoscience and Remote Sensing Magazine, 2020, DOI: 10.1109/MGRS.2020.2979764.
+
      @article{rasti2020feature,
       title     = {Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep (Overview and Toolbox)},
       author    = {B. Rasti and D. Hong and R. Hang and P. Ghamisi and X. Kang and J. Chanussot and J. Benediktsson},

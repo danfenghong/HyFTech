@@ -60,3 +60,9 @@ Deep Feature Extraction:
 13- CRNN: Convolutional RNN
 
 14- PCNN: PCA is applied prior to CNN  
+
+Contact Information:
+--------------------
+
+Danfeng Hong: hongdanfeng1989@gmail.com<br>
+Danfeng Hong is with the Univ. Grenoble Alpes, CNRS, Grenoble INP, GIPSA-lab, 38000 Grenoble, France.

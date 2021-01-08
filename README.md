@@ -3,7 +3,7 @@
 Behnood Rasti, Danfeng Hong, Renlong Hang, Pedram Ghamisi, Xudong Kang, Jocelyn Chanussot, Jon Atli Benediktsson
 ---------------------
 
-The code in this toolbox implements the ["Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep (Overview and Toolbox)"](https://ieeexplore.ieee.org/document/9082155).
+The code in this toolbox implements the ["Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep: Overview and Toolbox"](https://ieeexplore.ieee.org/document/9082155).
 More specifically, it is detailed as follow.
 
 ![alt text](./Figure.png)
@@ -16,7 +16,7 @@ Citation
 B. Rasti, D. Hong, R. Hang, P. Ghamisi, X. Kang, J. Chanussot, J. Benediktsson. Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep (Overview and Toolbox), IEEE Geosci. Remote Sens. Mag., 2020, 8(4): 60-88.
 
      @article{rasti2020feature,
-      title     = {Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep (Overview and Toolbox)},
+      title     = {Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep: Overview and Toolbox},
       author    = {B. Rasti and D. Hong and R. Hang and P. Ghamisi and X. Kang and J. Chanussot and J. Benediktsson},
       journal   = {IEEE Geosci. Remote Sens. Mag.},
       note      = {DOI: 10.1109/MGRS.2020.2979764},

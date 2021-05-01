@@ -13,7 +13,7 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-B. Rasti, D. Hong, R. Hang, P. Ghamisi, X. Kang, J. Chanussot, J. Benediktsson. Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep (Overview and Toolbox), IEEE Geosci. Remote Sens. Mag., 2020, 8(4): 60-88.
+B. Rasti, D. Hong, R. Hang, P. Ghamisi, X. Kang, J. Chanussot, J. Benediktsson. Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep: Overview and Toolbox, IEEE Geosci. Remote Sens. Mag., 2020, 8(4): 60-88.
 
      @article{rasti2020feature,
       title     = {Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep: Overview and Toolbox},
